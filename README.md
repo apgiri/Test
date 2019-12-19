@@ -7,3 +7,9 @@
 #	let x = x + 1
 #	if x <= end goto repeat
 #	print "done"
+
+# In this case, output: 
+# 2.0 
+# 3.0 
+# 4.0 
+# done 
